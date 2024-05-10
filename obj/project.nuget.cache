@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6NF22iJKGuGGgkk7hnYgdsvn0nngpBRicSga+VXYXC8HrB+H3iqLTX7Ujre5zoL0foZwgvBLH1EfHr14pjQuOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\F# Learning\\firstFSharpProject\\firstFSharpProject.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
